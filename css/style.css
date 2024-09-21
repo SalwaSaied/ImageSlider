@@ -11,7 +11,8 @@ body{
 .slider {  
   position: relative;  
   max-width: 100%;  
-  overflow: hidden;  
+  overflow: hidden; 
+  padding: 20px; 
 }  
 
 .slides {  
